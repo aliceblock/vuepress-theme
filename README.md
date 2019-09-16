@@ -1,6 +1,6 @@
-# @vuepress/theme-default
+# vuepress-theme
 
-> theme-default for vuepress
+> Enhanced layout and style for vuepress blog
 
 ## Plugins
 
