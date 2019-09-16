@@ -1,0 +1,41 @@
+{
+  "name": "@aliceblock/vuepress-theme-blog",
+  "version": "1.0.0",
+  "description": "Enhanced layout and style for vuepress blog",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliceblock/vuepress-theme.git"
+  },
+  "keywords": [
+    "documentation",
+    "vue",
+    "vuepress",
+    "generator"
+  ],
+  "author": "Saran Jenjirawat",
+  "maintainers": [
+    {
+      "name": "Intception",
+      "email": "arm.intception@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliceblock/vuepress-theme/issues"
+  },
+  "homepage": "https://github.com/aliceblock/vuepress-theme#readme",
+  "dependencies": {
+    "@vuepress/plugin-active-header-links": "^1.0.3",
+    "@vuepress/plugin-nprogress": "^1.0.3",
+    "@vuepress/plugin-search": "^1.0.3",
+    "bulma": "^0.7.5",
+    "docsearch.js": "^2.5.2",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vuepress-plugin-container": "^2.0.0"
+  }
+}

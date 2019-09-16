@@ -1,0 +1,8 @@
+.bulma-container .card:hover {
+  box-shadow: 4px 5px 8px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1);
+}
+
+.bulma-container {
+  box-sizing: border-box;
+  @import 'bulma/bulma.sass';
+}
