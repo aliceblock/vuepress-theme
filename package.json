@@ -30,12 +30,18 @@
   "homepage": "https://github.com/aliceblock/vuepress-theme#readme",
   "dependencies": {
     "@vuepress/plugin-active-header-links": "^1.0.3",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-rc.1",
     "@vuepress/plugin-nprogress": "^1.0.3",
     "@vuepress/plugin-search": "^1.0.3",
     "bulma": "^0.7.5",
     "docsearch.js": "^2.5.2",
+    "markdown-it-block-image": "^0.0.3",
+    "moment": "^2.24.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
+    "vuepress-plugin-autometa": "^0.1.12",
     "vuepress-plugin-container": "^2.0.0"
   }
 }
