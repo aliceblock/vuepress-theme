@@ -24,7 +24,7 @@ module.exports = {
       { text: 'Menu2', link: '/about/' },
     ],
     facebook: {
-      app_id: FB_APP_ID
+      // app_id: FB_APP_ID
     },
     lastUpdated: 'อัปเดตเมื่อ',
     per_page: 6   // Number of posts show in home
